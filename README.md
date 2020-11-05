@@ -61,7 +61,7 @@ Describe how your project / app will be used.  Expectation and scales can be add
 
 
 ## Support & Maintenance
-> Please contact through GitHub
+> Please contact me through GitHub
 > but you can also contact me via email
 > email@email.com.
 > This will be periodically updated.
